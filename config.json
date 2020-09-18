@@ -6,7 +6,7 @@
     "settings": {
       "clients": [
         {
-          "id": "f011c012-5f1d-418c-9494-d24d77a9d8f9",
+          "id": "858ca8dc-6b9e-4a4b-b519-5f01b6677c18",
           "alterId": 520
         }
       ]
@@ -14,7 +14,7 @@
     "streamSettings": {
       "network": "ws",
       "wsSettings": {
-        "path": "/xiaonuo"
+        "path": "/nanosoc"
       }
     }
   }
